@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1704550331 source:d:\myg\app\code blok\datapembelanjaan\main.cpp
+	"DB.h"
+
+1704549521 d:\myg\app\code blok\datapembelanjaan\db.h
+	<iostream>
+
+1704549741 source:d:\myg\app\code blok\datapembelanjaan\db.cpp
+	"DB.h"
+
